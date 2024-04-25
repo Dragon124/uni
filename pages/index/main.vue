@@ -1,4 +1,5 @@
 <template>
+	
 	<view>
 		<view class="head">
 			标题
@@ -39,7 +40,7 @@
 			}
 		},
 		methods: {
-
+		//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
 		}
 	}
 </script>
